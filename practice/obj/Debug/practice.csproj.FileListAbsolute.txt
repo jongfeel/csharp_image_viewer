@@ -1,0 +1,10 @@
+D:\visual_project\practice\practice\obj\Debug\practice.Form1.resources
+D:\visual_project\practice\practice\obj\Debug\practice.Properties.Resources.resources
+D:\visual_project\practice\practice\obj\Debug\practice.csproj.GenerateResource.cache
+D:\visual_project\practice\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
+D:\visual_project\practice\practice\bin\Debug\practice.exe.config
+D:\visual_project\practice\practice\bin\Debug\practice.exe
+D:\visual_project\practice\practice\bin\Debug\practice.pdb
+D:\visual_project\practice\practice\obj\Debug\practice.exe
+D:\visual_project\practice\practice\obj\Debug\practice.pdb
+D:\visual_project\practice\practice\obj\Debug\practice.csprojAssemblyReference.cache
